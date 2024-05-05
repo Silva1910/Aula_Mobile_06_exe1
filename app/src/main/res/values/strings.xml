@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula_Mobile_06_exe1</string>
+    <string name="etHoristaHora">horas trabalhadas</string>
+    <string name="etHoristaValor">valor da hora </string>
+    <string name="etTitularSalario">Salario titular</string>
+    <string name="etTitularAno"> digite os anos de empresa </string>
+    <string name="tvTitular"> PROFESSOR TITULAR</string>
+    <string name="tvHorista"> PROFESSOR HORISTA </string>
+    <string name="btnCalc"> CALCULAR </string>
+    <string name="rdTitular"> TITULAR </string>
+    <string name="rdHorista"> HORISTA </string>
+
+
+</resources>
